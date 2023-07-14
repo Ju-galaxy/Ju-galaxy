@@ -5,6 +5,6 @@
 - 📫 You can reach me via Whatsapp +66929655375...
 
 <!---
-Ju-galaxy/Ju-galaxy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ju-galaxy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
